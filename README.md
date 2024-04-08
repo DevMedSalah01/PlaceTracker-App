@@ -1,4 +1,4 @@
-# PlaceTracker
+# PlaceTracker | Done and Working
 
 PlaceTracker is a simple yet powerful application that allows users to save and manage their favorite places effortlessly.
 
